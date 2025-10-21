@@ -1,0 +1,9 @@
+google-generativeai
+python-dotenv
+websockets
+# 伺服器依賴
+fastapi
+uvicorn[standard]
+# 客戶端依賴 (用於處理音訊檔案)
+numpy
+soundfile
